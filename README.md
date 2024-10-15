@@ -1,4 +1,5 @@
 # LCPS Games
+## [ PolyTrack RAINBOW ROAD EDITION ](https://lcpsgames.github.io/PolyTrackRainbowRoad/) (NEW!)
 ## [PolyTrack](https://lcpsgames.github.io/polytrack/) (UPDATED!) (DATA RESET)
 ## [ Drive Mad ](https://lcpsgames.github.io/drivemad/) 
 ## [ Trigger Rally ](lcpsgames.github.io/TriggerRally/) (NEW!)
