@@ -3,8 +3,8 @@
 ## [ PolyTrack RAINBOW ROAD EDITION ](https://lcpsgames.github.io/PolyTrackRainbowRoad/) (POPULAR!)
 ## [PolyTrack](https://lcpsgames.github.io/polytrack/) 
 ## [ Drive Mad ](https://lcpsgames.github.io/drivemad/) 
-## [ Trigger Rally ](/TriggerRally/) 
-## [ SnowRider](/snowrider/) (NEW)
+## [ Trigger Rally ](https://lcpsgames.github.io/TriggerRally/) 
+## [ SnowRider](https://lcpsgames.github.io/snowrider/) (NEW)
 ### More soon!
 Backup website and game request: [ website. ](https://docs.google.com/document/d/1IOgdC2Of6N7-YVqLnDj1ciCKKoAffewma-MZDlP2Sg0/edit?usp=sharing)
 
