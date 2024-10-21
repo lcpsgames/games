@@ -6,6 +6,7 @@
 ## [ Trigger Rally ](https://lcpsgames.github.io/TriggerRally/) 
 ## [ SnowRider](https://lcpsgames.github.io/snowrider/) 
 ## [ Super Liquid Soccer ](https://lcpsgames.github.io/superliquidsoccer/) (NEW)
+## [Eaglercraft 1.8.8](https://lcpsgames.github.io/eaglercraft/) (NEW)
 ### More soon!
 Backup website and game request: [ website. ](https://docs.google.com/document/d/1IOgdC2Of6N7-YVqLnDj1ciCKKoAffewma-MZDlP2Sg0/edit?usp=sharing)
 
