@@ -6,7 +6,7 @@
 ## [ Trigger Rally ](https://lcpsgames.github.io/TriggerRally/) 
 ## [ SnowRider](https://lcpsgames.github.io/snowrider/) (POPULAR) 
 ## [ Super Liquid Soccer ](https://lcpsgames.github.io/superliquidsoccer/) 
-## [PROXY INTERSTELLAR!](https://supernatural-mausoleum-x5vvjqp5445gc6p9-8080.app.github.dev/) (TEMP UP)
+## [PROXY INTERSTELLAR!](https://supernatural-mausoleum-x5vvjqp5445gc6p9-8080.app.github.dev/) (DOWN)
 Backup website and game request: [website.](https://docs.google.com/document/d/1bVdtWv8hu4p9zzFy7bOQjRyyAKAwTiXCeLMcj3WdIx4/edit?usp=sharing) (Changed)
 
 
