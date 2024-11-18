@@ -7,7 +7,7 @@
 ## [ SnowRider](https://lcpsgames.github.io/snowrider/) 
 ## [ Super Liquid Soccer ](https://lcpsgames.github.io/superliquidsoccer/) 
 ## [Retro Bowl](https://lcpsgames.github.io/retrobowltest/) (POPULAR)
-## [PROXY](https://lcpsgames.github.io/proxy-notice/) (TONIGHT!)
+## [PROXY](https://lcpsgames.github.io/proxy-notice/) 
 ## [Tiny Fishing](https://lcpsgames.github.io/tiny-fishing/) (NEW)
 Backup website and game request: [website.](https://docs.google.com/document/d/1bVdtWv8hu4p9zzFy7bOQjRyyAKAwTiXCeLMcj3WdIx4/edit?usp=sharing) (Changed)
 
